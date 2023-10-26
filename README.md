@@ -11,7 +11,7 @@
 #### Ghi chú: ####
   - Không có source office 365 Mondo sẵn.
   - Dùng Office Tool Prolus để download và cài đặt office 365 Mondo.
-  - Hoặc các bạn cài office 2021 hoặc office 365 enterprise sau đó dùng https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO kích hoạt thì chúng cũng ra sản phẩm office 365 Mondo.
+  - Hoặc các bạn cài office 365 enterprise sau đó dùng https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO kích hoạt thì chúng cũng ra sản phẩm office 365 Mondo.
 
 ## Kích hoạt Office 365 Mondo ##
   - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
