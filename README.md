@@ -11,6 +11,8 @@
 #### Ghi chú: ####
   - Không có source office 365 Mondo sẵn.
   - Dùng Office Tool Prolus để download và cài đặt office 365 Mondo.
+  - Hoặc https://github.com/BsNgChiThanh/office365Mondo/blob/IMP/OfficeSetup365Enterprise_32Bit.exe
+  - Hoặc https://github.com/BsNgChiThanh/office365Mondo/blob/IMP/OfficeSetup365Enterprise_64Bit.exe
   - Hoặc các bạn cài [Office 365 Business](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365BusinessRetail.img)[office 365 enterprise 32 Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdAEedKN5YVEkQ1CSMScrx4B11OOJBWdVbbqv8UdTjPfRA?e=3PGXx5) hoặc [office 365 enterprise 64 Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EUWvOWdBd-tIigzy8kbdXFIBMGjogBvl7VtDztSVsBQJLA?e=RvRWje) sau đó dùng https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO kích hoạt thì chúng cũng ra sản phẩm office 365 Mondo.
 
 ## Kích hoạt Office 365 Mondo ##
