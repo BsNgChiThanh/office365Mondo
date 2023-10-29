@@ -19,3 +19,8 @@
   - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
   - Hoặc dùng Activate AIO Tools convert office sang office 365 Mondo rồi kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools
   - Dùng [đoạn code kích hoạt bằng cmd](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Active%20Office%20365%20Mondo.txt)
+
+#### KẾT QUẢ THÀNH CÔNG MỸ MÃN:
+
+  - **Done!**
+  - ![image](https://github.com/BsNgChiThanh/office365Mondo/assets/82578024/b4f1568b-34e1-42f5-bfde-e7524f132341)
